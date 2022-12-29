@@ -1,4 +1,4 @@
-# MIT-6.S081-6.828-OS
+# MIT-6.S081-OS
 
 ## Course Setup
 
