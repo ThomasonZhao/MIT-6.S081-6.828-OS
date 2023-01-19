@@ -16,6 +16,6 @@ Helpful Links:
 
 ## Labs
 
-Since each lab has a slight difference in the setup, it was intended to split them into different branches. Where this README lies is the main branch, and all the writeups for each lab will show in this branch (also will be posted on my [blog](https://thomasonzhao.cn/)). My solutions will be on different branches. You may identify them by their branch name. 
+Since each lab has a slight difference in the setup, it was intended to split them into different branches. Where this README lies is the main branch, and all the writeups for each lab will show in this branch (also will be posted on my [blog](https://thomasonzhao.cn/tags/MIT-6-S081/)). My solutions will be on different branches. You may identify them by their branch name. 
 
 [Lab1 util: Unix utilities](./Lab1%20util-Unix%20utilities.md)       Finished by Jan. 5, 2023
